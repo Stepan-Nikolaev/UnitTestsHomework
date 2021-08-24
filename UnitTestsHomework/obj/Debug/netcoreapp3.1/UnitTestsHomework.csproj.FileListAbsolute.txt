@@ -1,0 +1,12 @@
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\bin\Debug\netcoreapp3.1\UnitTestsHomework.exe
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\bin\Debug\netcoreapp3.1\UnitTestsHomework.deps.json
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\bin\Debug\netcoreapp3.1\UnitTestsHomework.runtimeconfig.json
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\bin\Debug\netcoreapp3.1\UnitTestsHomework.runtimeconfig.dev.json
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\bin\Debug\netcoreapp3.1\UnitTestsHomework.dll
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\bin\Debug\netcoreapp3.1\UnitTestsHomework.pdb
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\obj\Debug\netcoreapp3.1\UnitTestsHomework.csprojAssemblyReference.cache
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\obj\Debug\netcoreapp3.1\UnitTestsHomework.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\obj\Debug\netcoreapp3.1\UnitTestsHomework.AssemblyInfo.cs
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\obj\Debug\netcoreapp3.1\UnitTestsHomework.dll
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\obj\Debug\netcoreapp3.1\UnitTestsHomework.pdb
+D:\Степапка\DEX\Домашние задания\UnitTestsHomework\UnitTestsHomework\UnitTestsHomework\obj\Debug\netcoreapp3.1\UnitTestsHomework.genruntimeconfig.cache
